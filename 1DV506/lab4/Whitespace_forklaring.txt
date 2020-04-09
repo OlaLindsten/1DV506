@@ -1,0 +1,2 @@
+Jag får inte samma antal whitespace p.g.a det programmet jag sparade filen i antagligen inte hanterar radavslut på samma sätt som ni gjorde
+och därav blir styckerna olika och inte lika mycket whitespaces.
